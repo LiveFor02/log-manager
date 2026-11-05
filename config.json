@@ -1,0 +1,6 @@
+{
+  "app_name": "log-analyzer",
+  "log_level": "DEBUG",
+  "log_file": "logs/app.log",
+  "report_path": "logs/report.txt"
+}
